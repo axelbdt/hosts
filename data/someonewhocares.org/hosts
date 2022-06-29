@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Mon, 28 Feb 2022 at 01:30:13 GMT
+# Last updated: Mon, 20 Jun 2022 at 22:23:22 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1406,6 +1406,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 us.2.cqcounter.com
 0.0.0.0 us.cqcounter.com
 0.0.0.0 usa.nedstat.net
+0.0.0.0 users.maxcluster.net
 0.0.0.0 v1.nedstatbasic.net
 0.0.0.0 v8.analytics.pinsightmedia.com
 0.0.0.0 v8engine.pinsightmedia.com
@@ -1590,6 +1591,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a15172379.alturo-server.de
 0.0.0.0 abetterinternet.com
 0.0.0.0 abruzzoinitaly.co.uk
+0.0.0.0 accounts.secure-ua.website
 0.0.0.0 acglgoa.com
 0.0.0.0 acnenomor.com
 0.0.0.0 ad.g-content.bid
@@ -1643,6 +1645,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 bluescreenalert.com
 0.0.0.0 blw4-1.com
 0.0.0.0 bnvxcfhdgf.blogspot.com.es
+0.0.0.0 bobcard.co.in
 0.0.0.0 bopstermedia56.com
 0.0.0.0 brightonclick.com
 0.0.0.0 brunga.at	# Facebook phishing attempt
@@ -1661,6 +1664,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 changduk26.com			# Facebook trojan
 0.0.0.0 checkfreevideos.net
 0.0.0.0 chelick.net				# Facebook trojan
+0.0.0.0 cicontents.biz
 0.0.0.0 ciiycode.com
 0.0.0.0 cioco-froll.com
 0.0.0.0 clean-mobilephone.com
@@ -1687,6 +1691,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 compufixshop.com
 0.0.0.0 comsss-56.com
 0.0.0.0 conduit.com
+0.0.0.0 consumerspanel.frge.io
 0.0.0.0 coordino.com
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 crypto-loot.com
@@ -1705,6 +1710,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.likefever.org			# Facebook trojan
 0.0.0.0 eol1.egyptonline.com
+0.0.0.0 eslprologmvp.com
+0.0.0.0 eslprotourmvp.com
 0.0.0.0 exasked.com
 0.0.0.0 expertland.net
 0.0.0.0 expired-antiviruses.com
@@ -1726,6 +1733,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 free.videodownloadconverter.com
 0.0.0.0 freecontent.bid
 0.0.0.0 freedailydownload.com
+0.0.0.0 freshzz00.duckdns.org
 0.0.0.0 froling.bee.pl
 0.0.0.0 fromru.su
 0.0.0.0 ftdownload.com
@@ -1756,6 +1764,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hakuba.janis.or.jp
 0.0.0.0 handbrake.es
 0.0.0.0 hashing.win
+0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hatrecord.ru				# Facebook trojan
 0.0.0.0 hcg82f2b.com
 0.0.0.0 helpmedb.com
@@ -1769,7 +1778,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 howtobuildsoftware.com
 0.0.0.0 hp.myway.com
 0.0.0.0 hsb-canada.com	# phishing site for hsbc.ca
+0.0.0.0 i.ua-passport.top
 0.0.0.0 icecars.com
+0.0.0.0 id-unconfirmeduser.frge.io
 0.0.0.0 infopaypal.com
 0.0.0.0 informereng.com
 0.0.0.0 inkscape.es
@@ -1807,9 +1818,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 likethis.mbosoft.com			# Facebook trojan
 0.0.0.0 likethislist.biz			# Facebook trojan
 0.0.0.0 lingintirejohny.club
+0.0.0.0 login.creditals-email.space
 0.0.0.0 lp.cleanmymac.online
 0.0.0.0 lrt7a.coldcertainchannel.com
 0.0.0.0 lucklayed.info
+0.0.0.0 luxdiscount.zone
 0.0.0.0 m01.webwise.org
 0.0.0.0 m02.webwise.org
 0.0.0.0 mac-osx.message-warning.net
@@ -1853,6 +1866,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 monkeyball.osa.pl
 0.0.0.0 movies.701pages.com
 0.0.0.0 mp3red.cc
+0.0.0.0 ms-shoponline.top
 0.0.0.0 ms-shopplus.su
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 murcia-ban.es
@@ -1916,6 +1930,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 picture-uploads.com
 0.0.0.0 pigredoben12.sytes.net
 0.0.0.0 poonstwifterspick.work
+0.0.0.0 post.mil-gov.space
 0.0.0.0 postbox.mos.ru
 0.0.0.0 ppoi.org
 0.0.0.0 predictiondisplay.com
@@ -1948,7 +1963,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 scottishstuff-online.com	# Canadian bank phishing site
 0.0.0.0 screenaddict.thewhizproducts.com
 0.0.0.0 scribe.ttwitter.com
-0.0.0.0 scribus.fr
 0.0.0.0 sea.net.edu.cn
 0.0.0.0 search.buzzdock.com
 0.0.0.0 search.conduit.com
@@ -1989,6 +2003,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 techques.com
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 thailandtravel.live
+0.0.0.0 thebestwebpillplace.com
 0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thunderbird.es
@@ -2001,21 +2016,25 @@ ff02::3		ip6-allhosts
 0.0.0.0 tradedealvip.su
 0.0.0.0 traffic-bam.link
 0.0.0.0 traffic.adwitty.com
+0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trovi.com
 0.0.0.0 truecrypt.fr
 0.0.0.0 trusturl.top
 0.0.0.0 tuniaf.com
 0.0.0.0 tvshowslist.com
 0.0.0.0 tx.micro.net.pk
+0.0.0.0 ua-consumerpanel.frge.io
 0.0.0.0 ufpcdn.com
 0.0.0.0 unetbootin.net
 0.0.0.0 unetbootin.org
 0.0.0.0 unitdotto.club
 0.0.0.0 updateauto.preparevideosafesystem4unow.space
 0.0.0.0 uqz.com
+0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 users16.jabry.com
 0.0.0.0 utenti.lycos.it
 0.0.0.0 venturead.com
+0.0.0.0 verify.rambler-profile.site
 0.0.0.0 videoamp.com
 0.0.0.0 viowyf.khaiafi.com
 0.0.0.0 vip.fortunatetime.xyz
@@ -2148,7 +2167,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.randki-sex.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.russian-sex.com
-0.0.0.0 www.scribus.fr
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.shinilchurch.net	# domain was hacked and had a trojan installed
 0.0.0.0 www.simplyhelper.com
@@ -3583,6 +3601,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 a3.suntimes.com
 0.0.0.0 a7cleaner.com
 0.0.0.0 aa.agkn.com
+0.0.0.0 aa.tweakers.nl
 0.0.0.0 aaa-architecten.nl
 0.0.0.0 aaa-arcobaleno.it
 0.0.0.0 aads.treehugger.com
@@ -3592,6 +3611,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 ab.tweakers.nl
 0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
@@ -5097,6 +5117,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 api.taboola.com
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.viglink.com
+0.0.0.0 api.vodus.com
 0.0.0.0 api.zhy333.com
 0.0.0.0 aporasal.net
 0.0.0.0 app-measurement.com
@@ -5181,6 +5202,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 avidnewssource.com
 0.0.0.0 avilagtitkai.com
 0.0.0.0 avpa.javalobby.org
+0.0.0.0 avworld.activehosted.com
+0.0.0.0 avworld.lt.acemlnc.com
 0.0.0.0 axp.zedo.com
 0.0.0.0 azcentra.app.ur.gcion.com
 0.0.0.0 azoaltou.com
@@ -7493,7 +7516,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
-0.0.0.0 prodxnews1blob.blob.core.windows.net
 0.0.0.0 profile.uproxx.com
 0.0.0.0 profiline-berlin.de
 0.0.0.0 profitboosterapp.com
@@ -8534,6 +8556,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 vnumedia04.webtrekk.net
 0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 vodoustoichivshperplat.com
+0.0.0.0 vodus-api-serverless.azurewebsites.net
+0.0.0.0 vodus-api.azurewebsites.net
+0.0.0.0 vodus.com
+0.0.0.0 voduscdn.azureedge.net
 0.0.0.0 volksaddiction.nl
 0.0.0.0 voluumtracker.com
 0.0.0.0 voluumtrk.com
